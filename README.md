@@ -1,4 +1,13 @@
+if you move a bat to square drive same will reflected
+![Screenshot (112)](https://github.com/Hari-durai/virtual-cricket-game/assets/91016875/72c9e631-ec76-4bc1-b451-ae05c6e059e7)
+
+if you move a bat into leg side same will batter do
+
+![Screenshot (111)](https://github.com/Hari-durai/virtual-cricket-game/assets/91016875/a10f99c8-a4e9-41f3-bac8-fe391c1665eb)
+
+
 # virtual-cricket-game
+
 virtual cricket game play
 Creating a virtual cricket game using Mediapipe involves utilizing computer vision and gesture recognition to simulate the interactions between a player and the game elements.
 
