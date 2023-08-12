@@ -1,0 +1,61 @@
+# virtual-cricket-game
+virtual cricket game play
+Creating a virtual cricket game using Mediapipe involves utilizing computer vision and gesture recognition to simulate the interactions between a player and the game elements.
+
+
+# Virtual Cricket Game using Mediapipe
+
+This project demonstrates a virtual cricket game using the Mediapipe library for gesture recognition and computer vision. Players can use their hand gestures to simulate playing cricket.
+
+## Requirements
+
+- Python 3.x
+- OpenCV (`pip install opencv-python`)
+- Mediapipe (`pip install mediapipe`)
+
+## Setup
+
+
+1. Install the required packages:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+2. Run the virtual cricket game script:
+
+   ```
+   python virtual_cricket_game.py
+   ```
+
+3. The game window will open, showing the webcam feed with overlaid hand tracking.
+
+4. Hold your hand in front of the webcam, and the program will detect your hand's position.
+
+5. Perform gestures to control the game:
+   - Move your hand left or right to adjust the direction of the shot.
+   - Move your hand up or down to control shot power.
+
+6. Enjoy playing the virtual cricket game!
+
+## Controls
+
+- Move hand left/right: Adjust shot direction
+- Move hand up/down: Control shot power by s
+- Make a specific gesture (e.g., fist) to trigger shot
+
+## Customization
+
+You can customize the game by modifying the game logic in `virtual_cricket_game.py`. You can change the scoring mechanism, game rules, or even add more advanced gestures.
+
+## Credits
+
+- This project is inspired by Mediapipe's hand tracking and gesture recognition capabilities.
+- Developed by Your Name. Contact: your.email@example.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
