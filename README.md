@@ -33,11 +33,8 @@ This project demonstrates a virtual cricket game using the Mediapipe library for
 
 ## Usage
 
-2. Run the virtual cricket game script:
+2. Run the virtual cricket game 
 
-   ```
-   python virtual_cricket_game.py
-   ```
 
 3. The game window will open, showing the webcam feed with overlaid body pose tracking.
 
