@@ -39,9 +39,9 @@ This project demonstrates a virtual cricket game using the Mediapipe library for
    python virtual_cricket_game.py
    ```
 
-3. The game window will open, showing the webcam feed with overlaid hand tracking.
+3. The game window will open, showing the webcam feed with overlaid body pose tracking.
 
-4. Hold your hand in front of the webcam, and the program will detect your hand's position.
+4. Hold your body in front of the webcam, and the program will detect your hand's position.
 
 5. Perform gestures to control the game:
    - Move your hand left or right to adjust the direction of the shot.
@@ -55,14 +55,12 @@ This project demonstrates a virtual cricket game using the Mediapipe library for
 - Move hand up/down: Control shot power by s
 - Make a specific gesture (e.g., fist) to trigger shot
 
-## Customization
 
-You can customize the game by modifying the game logic in `virtual_cricket_game.py`. You can change the scoring mechanism, game rules, or even add more advanced gestures.
 
 ## Credits
 
-- This project is inspired by Mediapipe's hand tracking and gesture recognition capabilities.
-- Developed by Your Name. Contact: your.email@example.com
+- This project is inspired by Mediapipe's pose tracking and gesture recognition capabilities.
+- Developed by Your hariharan. 
 
 ## License
 
